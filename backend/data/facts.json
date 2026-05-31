@@ -1,0 +1,22 @@
+{
+    "full_name": "Soh Jun Ming",
+    "name": "Junming",
+    "current_role": "Reliability Engineer",
+    "location": "Singapore",
+    "email": "junming1202@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jun-ming-soh-52776897/",
+    "specialties": [
+      "familiar with python programming",
+      "familiar with FEA simulation",
+      "project management",
+      "data analysis"
+    ],
+    "years_experience": 5,
+    "education": [
+      {
+        "degree": "Bachelor of Mechanical Engineering",
+        "institution": "Monash University",
+        "year": "2020"
+      }
+    ]
+  }
